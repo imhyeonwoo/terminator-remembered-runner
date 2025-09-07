@@ -2,6 +2,13 @@
 
 Recreate your working environment in seconds: this script splits a tmux window into as many panes as you have saved commands and injects each command into its own pane. Perfect to use inside Terminator when you want interactive, per-pane control rather than a one-shot `.sh` batch.
 
+## Demo / How-To Video
+
+[![Demo Video](https://img.youtube.com/vi/EYaPXOi2hYo/0.jpg)](https://youtu.be/EYaPXOi2hYo)
+
+- YouTube: https://youtu.be/EYaPXOi2hYo
+- 시연 / 실행 방법 영상입니다.
+
 ## Requirements
 - Python 3.8+
 - tmux (`sudo apt install -y tmux`)
