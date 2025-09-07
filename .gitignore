@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pyo
+*.DS_Store
+.env
+.venv
+# Do not commit your real config
+commands.json
+GIT

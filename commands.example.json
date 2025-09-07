@@ -1,0 +1,10 @@
+{
+  "auto_execute": true,
+  "confirm_each": false,
+  "commands": [
+    "htop",
+    "ping -c 3 8.8.8.8",
+    "tail -f /var/log/syslog",
+    "python3 -m http.server 8000"
+  ]
+}
