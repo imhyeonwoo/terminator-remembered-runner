@@ -7,7 +7,7 @@ Recreate your working environment in seconds: this script splits a tmux window i
 [![Demo Video](https://img.youtube.com/vi/EYaPXOi2hYo/0.jpg)](https://youtu.be/EYaPXOi2hYo)
 
 - YouTube: https://youtu.be/EYaPXOi2hYo
-- 시연 / 실행 방법 영상입니다.
+- This is a demo/how-to video.
 
 ## Requirements
 - Python 3.8+
